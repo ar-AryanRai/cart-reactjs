@@ -2,7 +2,7 @@
 
 **CoCart** is a sleek, React-based shopping cart demo that mimics the cart experience found in modern e-commerce websites. Built from scratch using React and state management, it demonstrates how products can be added, updated, and removed from a cart in real-time.
 
-🌐 **Live Demo**: [co-cart.netlify.app](https://co-cart.netlify.app/)
+🌐 **Live Demo**: [Check out fully functioning cart](https://co-cart.netlify.app/)
 
 ---
 
